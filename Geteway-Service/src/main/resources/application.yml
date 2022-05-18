@@ -1,0 +1,27 @@
+server:
+  port: 8080
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: patient-ms
+          uri: 'http://localhost:8090'
+          predicates:
+            - Path=/patient-ms/**
+        - id: rh-ms
+          uri: 'http://localhost:8091'
+          predicates:
+            - Path=/rh-ms/**
+        - id: user-ms
+          uri: 'http://localhost:8085'
+          predicates:
+            - Path=/user-ms/**
+        - id: bloc-ms
+          uri: 'http://localhost:8097'
+          predicates:
+            - Path=/blocs-ms/**
+
+zuul:
+  ribbon:
+    eager-load:
+      enabled: true

@@ -1,0 +1,23 @@
+
+B
+java:S1068#"'Remove this unused "nom" private field.(À³õåùÿÿÿÿ
+@
+java:S1068$"*Remove this unused "prenom" private field.(Í¤™ì
+G
+java:S1068'",Remove this unused "password" private field.(œãë­úÿÿÿÿ
+<
+java:S1068("'Remove this unused "cin" private field.(’ ’U
+Q
+java:S1068)"/Remove this unused "phoneNumber" private field.(Ôá“ùÿÿÿÿ8¦Ôö½·/
+M
+java:S1068*"2Remove this unused "emailConfirmed" private field.(Ï”³œúÿÿÿÿ
+A
+java:S1068-"+Remove this unused "adresse" private field.(À—¼è
+@
+java:S1068."*Remove this unused "gender" private field.(ÀÄŒ
+B
+java:S10681"-Remove this unused "matricule" private field.(—ÚÏL
+I
+java:S10682".Remove this unused "etatCompte" private field.(Ú—äóúÿÿÿÿ
+N
+java:S1068;",Remove this unused "idEmploi" private field.(’¡µ ùÿÿÿÿ8«Ôö½·/
