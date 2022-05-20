@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bloc/bloc.iml" filepath="$PROJECT_DIR$/bloc/bloc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Discovery-Service/demo.iml" filepath="$PROJECT_DIR$/Discovery-Service/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Geteway-Service/demo (1).iml" filepath="$PROJECT_DIR$/Geteway-Service/demo (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ms-Users/demo (2).iml" filepath="$PROJECT_DIR$/Ms-Users/demo (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/Patient-Service/demo (3).iml" filepath="$PROJECT_DIR$/Patient-Service/demo (3).iml" />
-      <module fileurl="file://$PROJECT_DIR$/User-Service-RH/demo (4).iml" filepath="$PROJECT_DIR$/User-Service-RH/demo (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/bloc.iml" filepath="$PROJECT_DIR$/bloc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Discovery-Service/demo.iml" filepath="$PROJECT_DIR$/../Discovery-Service/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Geteway-Service/demo (1).iml" filepath="$PROJECT_DIR$/../Geteway-Service/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ms-Users/demo (2).iml" filepath="$PROJECT_DIR$/../Ms-Users/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Patient-Service/demo (3).iml" filepath="$PROJECT_DIR$/../Patient-Service/demo (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../User-Service-RH/demo (4).iml" filepath="$PROJECT_DIR$/../User-Service-RH/demo (4).iml" />
     </modules>
   </component>
 </project>

@@ -1,7 +1,0 @@
-{
-  "timestamp": "2022-02-03T18:19:35.191+00:00",
-  "status": 404,
-  "error": "Not Found",
-  "message": "No message available",
-  "path": "/api/users/user/all"
-}
