@@ -1,0 +1,14 @@
+
+d
+java:S2095p"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(„õ½‰
+l
+java:S2095o"QUse try-with-resources or close this "ReadableByteChannel" in a "finally" clause.(€Ç—øÿÿÿÿ
+J
+java:S1066Q"/Merge this if statement with the enclosing one.(§ıíÍüÿÿÿÿ
+`	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(Šğ®…úÿÿÿÿ
+S
+java:S11971"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+E
+java:S2093<"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+@
+java:S1181["%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
