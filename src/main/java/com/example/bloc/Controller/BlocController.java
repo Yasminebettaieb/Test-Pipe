@@ -35,8 +35,8 @@ public class BlocController {
     }
     @GetMapping("/findroom/{id}")
     public Bloc findBloc(@PathVariable("id") long id) {
-        Bloc b = blocRepository.findBlocByIdpatient(id);
-        return b;
+        Bloc b1 = blocRepository.findBlocByIdpatient(id);
+        return b1;
     }
 
 
